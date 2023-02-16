@@ -3,7 +3,7 @@
 Add a js file to your interviews with this code:
 
 ```js
-$(document).on('daPageLoad', function(){
+$(document).ready(function() {
   document.documentElement.setAttribute('data-bs-theme', 'light');
 });
 ```
