@@ -1,6 +1,6 @@
 ---
 features:
-  javascript: bootstrap_lightmode.js
+  javascript: force_lightmode.js
 ---
 mandatory: True
 question: Test light mode only
